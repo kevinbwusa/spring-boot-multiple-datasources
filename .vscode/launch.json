@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-MultipleDatasourcesApplication<spring-boot-multiple-datasources>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.mycompany.myapp.datasources.MultipleDatasourcesApplication",
+      "projectName": "spring-boot-multiple-datasources",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
